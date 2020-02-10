@@ -14,6 +14,8 @@ rot_15 = ["p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z", "a", "b", "c", 
 twice     =["aa", "bb", "cc", "dd", "ee", "ff", "gg", "hh", "ii", "jj", "kk", "ll", "mm", "nn", "oo", "pp", "qq", "rr", "ss", "tt", "uu", "vv", "ww", "xx", "yy" "zz", "00", "11", "22", "33", "44", "55", "66", "77", "88", "99", "  "]
 triple    =["aaa", "bbb", "ccc", "ddd", "eee", "fff", "ggg", "hhh", "iii", "jjj", "kkk", "lll", "mmm", "nnn", "ooo", "ppp", "qqq", "rrr", "sss", "ttt", "uuu", "vvv", "www", "xxx", "yyy" "zzz", "000", "111", "222", "333", "444", "555", "666", "777", "888", "999", "   "]
 quadruple =["aaaa", "bbbb", "cccc", "dddd", "eeee", "ffff", "gggg", "hhhh", "iiii", "jjjj", "kkkk", "lll", "mmm", "nnnn", "oooo", "pppp", "qqqq", "rrrr", "ssss", "tttt", "uuuu", "vvvv", "wwww", "xxxx", "yyyy" "zzzz", "0000", "1111", "2222", "3333", "4444", "5555", "6666", "7777", "8888", "9999", "    "]
+quintuple =["aaaaa", "bbbbb", "ccccc", "ddddd", "eeeee", "fffff", "ggggg", "hhhhh", "iiiii", "jjjjj", "kkkkk", "llll", "mmmm", "nnnnn", "ooooo", "ppppp", "qqqqq", "rrrrr", "sssss", "ttttt", "uuuuu", "vvvvv", "wwwww", "xxxxx", "yyyyy" "zzzzz", "00000", "11111", "22222", "33333", "44444", "55555", "66666", "77777", "88888", "99999", "     "]
+
 
 for x in (range(11)):
     print(original[x])
