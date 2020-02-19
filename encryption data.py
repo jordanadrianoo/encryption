@@ -12,4 +12,10 @@ new_info=""
 
 
 for x in (range(len(info))): #range of the array orginal
-    print(info[x])
+   position = x
+   letter = info[x]
+
+   letter_postion_in_orginal = orginal.index(letter)
+
+   
+    print(letter_postion_in_orginal)
