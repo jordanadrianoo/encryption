@@ -18,5 +18,7 @@ for x in (range(len(info))): #range of the array orginal
    letter_position_in_orginal= (orginal.index(letter))
    letter_position_in_rot_15 = (rot_15[letter_position_in_orginal])
 
+   print(letter_position_in_rot_15)
+
 
    
