@@ -7,7 +7,7 @@ rot_15 = ["p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z", "a", "b", "c", 
 
 
 
-info="this is information that need to be encrypted. use any means, but do not show anybody."
+info="this is information that need to be encrypted use any means but do not show anybody"
 new_info=""
 
 
@@ -15,7 +15,6 @@ for x in (range(len(info))): #range of the array orginal
    position = x
    letter = info[x]
 
-   letter_postion_in_orginal = orginal.index(letter)
+   letter_position_in_orginal= (orginal.index(letter))
 
    
-    print(letter_postion_in_orginal)
