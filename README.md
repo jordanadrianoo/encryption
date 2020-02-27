@@ -1,2 +1,2 @@
 # encryption
-This project simply encrypts messages.
+This project simply encrypts messages. 
